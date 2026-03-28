@@ -1,0 +1,31 @@
+{"messages":[{"role":"user","content":"ポーカーにおける「ハンド」とは何ですか？"},{"role":"assistant","content":"「ハンド (Hand)」とは、プレイヤーに配られたカードの組み合わせ、またはゲーム1回分の単位を指します。"}]}
+{"messages":[{"role":"user","content":"ポーカーで「ポット」とは何を意味しますか？"},{"role":"assistant","content":"「ポット (Pot)」とは、そのハンドで全プレイヤーが賭けたチップの合計額のことを指します。"}]}
+{"messages":[{"role":"user","content":"「ボタン」とはポーカーでどんな役割や意味がありますか？"},{"role":"assistant","content":"「ボタン / ディーラーボタン (Button / Dealer Button)」は各ハンドで最も有利とされるポジションで、最後にアクションできる位置のことです。"}]}
+{"messages":[{"role":"user","content":"プリアクションで最初に行動するポジションは何と呼ばれますか？"},{"role":"assistant","content":"「アンダー・ザ・ガン (Under the Gun / UTG)」と呼ばれ、ビッグブラインドの左隣でプリフロップで最初に行動するポジションです。"}]}
+{"messages":[{"role":"user","content":"「プリフロップ」とはどの段階のことを指しますか？"},{"role":"assistant","content":"「プリフロップ (Preflop)」とは、ホールカードが配られた直後で、ボードにカードが出る前のベッティングラウンドのことです。"}]}
+{"messages":[{"role":"user","content":"「フォールド」とはポーカーでどのようなアクションですか？"},{"role":"assistant","content":"「フォールド (Fold)」は、ハンドを降りてそのラウンドから撤退することを指します。"}]}
+{"messages":[{"role":"user","content":"「レイズ」とは何を意味しますか？"},{"role":"assistant","content":"「レイズ (Raise)」は、直前のベットやレイズに対してさらに上乗せしてチップを賭ける行為です。"}]}
+{"messages":[{"role":"user","content":"「オールイン」とはどういう意味ですか？"},{"role":"assistant","content":"「オールイン (All-in)」は、手持ちのチップ全額を賭けることを意味します。"}]}
+{"messages":[{"role":"user","content":"最強のポーカーハンドは何ですか？"},{"role":"assistant","content":"最強のハンドは「ロイヤルフラッシュ (Royal Flush)」で、同じスートのA・K・Q・J・10の組み合わせです。"}]}
+{"messages":[{"role":"user","content":"「フルハウス」とはどんなカードの組み合わせですか？"},{"role":"assistant","content":"「フルハウス (Full House)」は、スリーオブアカインドとワンペアの組み合わせのことです。"}]}
+{"messages":[{"role":"user","content":"ポーカーで「キッカー」とは何を指しますか？"},{"role":"assistant","content":"「キッカー (Kicker)」は、同じハンドランクのプレイヤー同士の勝敗を決めるために使われる補助カードを指します。"}]}
+{"messages":[{"role":"user","content":"「バリューベット」とはどのようなアクションですか？"},{"role":"assistant","content":"「バリューベット (Value Bet)」は、自分のハンドが相手より強いと確信している状況で、相手にコールを促し、獲得するポット額を最大化するためのベットです。"}]}
+{"messages":[{"role":"user","content":"「ブラフ」とは何ですか？"},{"role":"assistant","content":"「ブラフ (Bluff)」は、弱いハンドで強いハンドを持っているかのようにベットし、相手をフォールドさせることを狙うアクションです。"}]}
+{"messages":[{"role":"user","content":"「コンティニュエーションベット (Cベット)」とはどのような意味ですか？"},{"role":"assistant","content":"「コンティニュエーションベット / Cベット (Continuation Bet / C-Bet)」は、プリフロップでレイズしたプレイヤーがフロップでも続けてベットすることを指します。"}]}
+{"messages":[{"role":"user","content":"ポーカーの「ポットオッズ」とは何を意味していますか？"},{"role":"assistant","content":"「ポットオッズ (Pot Odds)」は、コールに必要な額とポットの大きさの比率で、コールの期待値判断に使われます。"}]}
+{"messages":[{"role":"user","content":"「EV（期待値）」とは何ですか？"},{"role":"assistant","content":"「EV（期待値） (Expected Value)」は、あるアクションを長期的に繰り返した場合の平均的な損益を指します。"}]}
+{"messages":[{"role":"user","content":"「レンジ」とはポーカーでどのような意味ですか？"},{"role":"assistant","content":"「レンジ (Range)」は、あるプレイヤーが特定の状況で持ちうるハンドの範囲を意味します。"}]}
+{"messages":[{"role":"user","content":"「ティルト」とはどのような状態を指しますか？"},{"role":"assistant","content":"「ティルト (Tilt)」は、感情的になり冷静な判断ができなくなっている状態を指します。"}]}
+{"messages":[{"role":"user","content":"「タイト」と「ルース」の違いは何ですか？"},{"role":"assistant","content":"「タイト (Tight)」は強いハンドだけを選んでプレイする堅実なスタイルで、「ルース (Loose)」は幅広いハンドでプレイに参加する積極的なスタイルです。"}]}
+{"messages":[{"role":"user","content":"「アグレッシブ」とはどんなプレイスタイルですか？"},{"role":"assistant","content":"「アグレッシブ (Aggressive)」は、ベットやレイズを多用する攻撃的なプレイスタイルを指します。"}]}
+{"messages":[{"role":"user","content":"「チェックレイズ」とはどのようなアクションですか？"},{"role":"assistant","content":"「チェックレイズ (Check-Raise)」は、最初にチェックしてから、相手のベットに対してレイズするアクションです。"}]}
+{"messages":[{"role":"user","content":"「ドンクベット」とは何ですか？"},{"role":"assistant","content":"「ドンクベット (Donk Bet)」は、前のストリートでアグレッサーでなかったプレイヤーが、アグレッサーより先にベットすることを指します。"}]}
+{"messages":[{"role":"user","content":"「スロープレイ」とはどのような戦略ですか？"},{"role":"assistant","content":"「スロープレイ (Slow Play)」は、強いハンドをあえて弱く見せかけ、相手のベットやブラフを誘うプレイ戦略です。"}]}
+{"messages":[{"role":"user","content":"「フロート」とはどんな戦術ですか？"},{"role":"assistant","content":"「フロート (Float)」は、弱いハンドでフロップのベットにコールし、後のストリートでブラフを狙う戦術です。"}]}
+{"messages":[{"role":"user","content":"「バンクロール」とは何ですか？"},{"role":"assistant","content":"「バンクロール (Bankroll)」は、ポーカーに充てる資金の総額を指します。"}]}
+{"messages":[{"role":"user","content":"「アウツ」とはポーカーで何を意味しますか？"},{"role":"assistant","content":"「アウツ (Outs)」は、自分のハンドを改善できる残りのカードの枚数を指します。"}]}
+{"messages":[{"role":"user","content":"「シャーク」とはどんなプレイヤーを指す俗称ですか？"},{"role":"assistant","content":"「シャーク (Shark)」は、高い技術と経験を持つ上級プレイヤーを指す俗称です。"}]}
+{"messages":[{"role":"user","content":"「フィッシュ」とはどのようなプレイヤーを指しますか？"},{"role":"assistant","content":"「フィッシュ (Fish)」は、経験が浅くミスが多いプレイヤーを指す俗称です。"}]}
+{"messages":[{"role":"user","content":"「ミドルポジション」とはどんな意味ですか？"},{"role":"assistant","content":"「ミドルポジション (Middle Position / MP)」は、アーリーポジションとレイトポジションの中間に位置するポジションです。"}]}
+{"messages":[{"role":"user","content":"「オーバーベット」とは何ですか？"},{"role":"assistant","content":"「オーバーベット (Overbet)」は、ポットサイズを超える額のベットを指します。"}]}
+{"messages":[{"role":"user","content":"「インプライドオッズ」とは何のことですか？"},{"role":"assistant","content":"「インプライドオッズ (Implied Odds)」は、現在のポットオッズに加え、後のストリートで追加で獲得できると見込まれる額を考慮した期待値のことです。"}]}
